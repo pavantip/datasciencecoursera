@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Scientist toolbox Coursera Course
+Data Scientist toolbox Coursera Course. Edited
